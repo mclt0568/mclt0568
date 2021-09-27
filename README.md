@@ -6,7 +6,7 @@ Preferred Name: Frankie
 Currently:  
 🎓 Sunway College DIIT Student
 
-Languages:
+Languages:  
 💬 中文 / Chinese Mandarine  
 💬 English  
 💬 日本語 / Japanese  
