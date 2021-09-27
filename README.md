@@ -11,7 +11,7 @@ Languages:
 💬 English (Second language)  
 💬 日本語 / Japanese (Foreign language as Hobbie)  
 
-Technology  
+Technologies:  
 💻 Linux / Win  
 💻 HTML / JS / CSS  
 💻 JS / Node / Common Frameworks  
