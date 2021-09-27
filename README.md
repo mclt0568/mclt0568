@@ -4,25 +4,25 @@ Name: Xuanao Zhao
 Preferred Name: Frankie  
 
 Currently:  
-🎓 Sunway College DIIT Student
+| &nbsp; 🎓 Sunway College DIIT Student
 
 Languages:  
-💬 中文 / Chinese Mandarin (First language)  
-💬 English (Second language)  
-💬 日本語 / Japanese (Foreign language as Hobbie)  
+| &nbsp; 💬 中文 / Chinese Mandarin (First language)  
+| &nbsp; 💬 English (Second language)  
+| &nbsp; 💬 日本語 / Japanese (Foreign language as Hobbie)  
 
 Technologies:  
-💻 Linux / Win  
-💻 HTML / JS / CSS  
-💻 JS / Node / Common Frameworks  
-💻 Python / C# / Java / PHP  
+| &nbsp; 💻 Linux / Win  
+| &nbsp; 💻 HTML / JS / CSS  
+| &nbsp; 💻 JS / Node / Common Frameworks  
+| &nbsp; 💻 Python / C# / Java / PHP  
 And More ...  
 
 Learning:  
-📚 Dart / Flutter  
-📚 Websockets  
-📚 Finnish Language  
+| &nbsp; 📚 Dart / Flutter  
+| &nbsp; 📚 Websockets  
+| &nbsp; 📚 Finnish Language  
 
 Other Hobbies:  
-🖼️ Art / Stories  
-🌍 Languages / Cultures  
+| &nbsp; 🖼️ Art / Stories  
+| &nbsp; 🌍 Languages / Cultures  
