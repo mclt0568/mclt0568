@@ -7,9 +7,9 @@ Currently:
 🎓 Sunway College DIIT Student
 
 Languages:  
-💬 中文 / Chinese Mandarin  
-💬 English  
-💬 日本語 / Japanese  
+💬 中文 / Chinese Mandarin (First language)  
+💬 English (Second language)  
+💬 日本語 / Japanese (Foreign language as Hobbie)  
 
 Technology  
 💻 Linux / Win  
