@@ -14,8 +14,8 @@ Languages:
 Technologies:  
 | &nbsp; 💻 Linux / Win  
 | &nbsp; 💻 HTML / JS / CSS  
-| &nbsp; 💻 JS / Node / VueJS / ReactJS / ExpressJS
-| &nbsp; 💻 Python / C# / Java / PHP / Dart
+| &nbsp; 💻 JS / Node / VueJS / ReactJS / ExpressJS  
+| &nbsp; 💻 Python / C# / Java / PHP / Dart  
 And More ...  
 
 Learning:  
