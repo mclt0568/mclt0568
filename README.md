@@ -14,12 +14,11 @@ Languages:
 Technologies:  
 | &nbsp; 💻 Linux / Win  
 | &nbsp; 💻 HTML / JS / CSS  
-| &nbsp; 💻 JS / Node / Common Frameworks  
-| &nbsp; 💻 Python / C# / Java / PHP  
+| &nbsp; 💻 JS / Node / VueJS / ReactJS / ExpressJS
+| &nbsp; 💻 Python / C# / Java / PHP / Dart
 And More ...  
 
 Learning:  
-| &nbsp; 📚 Dart / Flutter  
 | &nbsp; 📚 Websockets  
 | &nbsp; 📚 Finnish Language  
 
