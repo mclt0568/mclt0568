@@ -16,10 +16,10 @@ Technologies:
 | &nbsp; 💻 HTML / JS / CSS  
 | &nbsp; 💻 JS / Node / VueJS / ReactJS / ExpressJS  
 | &nbsp; 💻 Python / C# / Java / PHP / Dart  
+| &nbsp; 💻 HTTP / Websockets  
 And More ...  
 
 Learning:  
-| &nbsp; 📚 Websockets  
 | &nbsp; 📚 Finnish Language  
 
 Other Hobbies:  
