@@ -4,7 +4,7 @@ Name: Xuanao Zhao
 Preferred Name: Frankie  
 
 Currently:  
-| &nbsp; 🎓 Sunway College DIIT Student
+| &nbsp; 🎓 Monash@Clayton Student
 
 Languages:  
 | &nbsp; 💬 中文 / Chinese Mandarin (First language)  
