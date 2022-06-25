@@ -8,7 +8,7 @@ Currently:
 
 Languages:  
 | &nbsp; 💬 中文 / Chinese Mandarin (First language)  
-| &nbsp; 💬 English (Second language, IELTS6.5)  
+| &nbsp; 💬 English (Second language, IELTS7.5)  
 | &nbsp; 💬 日本語 / Japanese (Foreign language as Hobbie, JLPT N4)  
 
 Technologies:  
