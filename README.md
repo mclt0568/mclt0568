@@ -25,4 +25,5 @@ Learning:
 Other Hobbies:  
 | &nbsp; 🖼️ Art / Stories  
 | &nbsp; 🌍 Languages / Cultures  
-| &nbsp; 🎼 Music / Composition / Rock / Post Rock / Jazz
+| &nbsp; 🎼 Rock / Post Rock / Jazz
+| &nbsp; 🎼 New in music composition
