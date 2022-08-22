@@ -27,3 +27,7 @@ Other Hobbies:
 | &nbsp; 🌍 Languages / Cultures  
 | &nbsp; 🎼 Rock / Post Rock / Jazz  
 | &nbsp; 🎼 New in music composition  
+
+Contacts:
+ - Email: [tis7bfrankie@gmail.com](mailto:tis7bfrankie@gmail.com)
+ - Email(Edu): [xzha0399@student.monash.edu](mailto:xzha0399@student.monash.edu)
