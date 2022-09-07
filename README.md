@@ -28,5 +28,5 @@ Other Hobbies:
 | &nbsp; 🎼 Enjoys Music
 
 Contacts:
- - Email: [tis7bfrankie@gmail.com](mailto:tis7bfrankie@gmail.com)
+ - Email: [frankium@frankium.com](mailto:frankium@frankium.com)
  - Email(Edu): [xzha0399@student.monash.edu](mailto:xzha0399@student.monash.edu)
