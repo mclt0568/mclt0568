@@ -4,7 +4,7 @@
 **Preferred Name**: Frankie  
 
 `Computer Science` `Linguistics` `Education` `Design and Visual Communication`  
-`Full Stack` `Mobile App` `Desktop App`
+`Full Stack` `Mobile App` `Desktop App` `Linux`
 
 ### Currently:  
 * &nbsp; 🎓 Monash@Clayton Student
