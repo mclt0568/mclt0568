@@ -3,6 +3,8 @@
 Name: Xuanao Zhao  
 Preferred Name: Frankie  
 
+`Computer Science` `Linguistics` `Education` `Design and Visual Communication`
+
 Currently:  
 | &nbsp; 🎓 Monash@Clayton Student
 
