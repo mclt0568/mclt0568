@@ -6,8 +6,8 @@
 `Computer Science` `Linguistics` `Education` `Design and Visual Communication`  
 `Full Stack` `Mobile App` `Desktop App` `Linux`
 
-### Currently:  
-* &nbsp; 🎓 Monash@Clayton Student
+### Current Activity:  
+* &nbsp; 🎓 Monash University (Clayton) Student
 
 ### Languages:  
 * &nbsp; 💬 中文 / Chinese Mandarin (First language)  
