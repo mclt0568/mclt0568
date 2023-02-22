@@ -7,7 +7,9 @@
 `Full Stack` `Mobile App` `Desktop App` `Linux`
 
 ### Current Activity:  
-* &nbsp; 🎓 Monash University (Clayton) Student
+* &nbsp; 🎓 Monash University (Clayton)
+  * Bachelor of Computer Science (Student)
+  * Teaching Associate, Faculty of IT
 
 ### Languages:  
 * &nbsp; 💬 中文 / Chinese Mandarin (First language)  
