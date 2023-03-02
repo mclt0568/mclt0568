@@ -34,4 +34,5 @@ And More ...
 
 ### Contacts:
  - Email: [frankium@frankium.com](mailto:frankium@frankium.com)
- - Email(Edu): [xzha0399@student.monash.edu](mailto:xzha0399@student.monash.edu)
+ - Email(Edu, Student): [xzha0399@student.monash.edu](mailto:xzha0399@student.monash.edu)]
+ - Email(Edu, TA): [frankie.zhao@monash.edu](mailto:frankie.zhao@monash.edu)]
