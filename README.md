@@ -1,1 +1,1 @@
-<div style="background: green;">Style</div>
+<div style="background-color: green !important;">Style</div>
