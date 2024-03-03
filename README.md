@@ -1,1 +1,1 @@
-![Frankie's Profile](image_new.png)
+![Frankie's Profile](image_new_2.png)
